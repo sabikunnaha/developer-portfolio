@@ -3,6 +3,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0px 200px;
 
 }
 
@@ -43,5 +44,27 @@ nav a {
     font-size: 20px;
     line-height: 27px;
     padding: 15px 35px;
+
+}
+
+/* Header relaited style */
+.header {
+    background-color: #FFF8F3;
+
+}
+
+.banner {
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+
+/* .banner-greeting { */
+position: absolute;
+width: 585px;
+height: 356px;
+left: 230px;
+top: 297px;
+
 
 }
