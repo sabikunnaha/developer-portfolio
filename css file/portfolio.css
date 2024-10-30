@@ -156,3 +156,44 @@ main {
     font-weight: 700;
     font-size: 30px;
 }
+
+.resume-container {
+    display: flex;
+    gap: 50px;
+}
+
+.resume-item-education {
+    color: #474747;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.resume-item-unevercty {
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+}
+
+.resume-item-description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
+.resume-container hr {
+    margin: 30px;
+}
+
+.download-cv {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* footer style */
+footer {
+    display: flex;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
+    margin-top: 100px;
+}
